@@ -1,0 +1,22 @@
+[
+ {
+  "title": "Alle Bilder",
+  "all": true,
+  "ids": []
+ },
+ {
+  "title": "Mandalas",
+  "ids": [
+   "b3219d73-3be0-47b6-9010-cb991538caa8",
+   "25f2b9d0-e772-4e9b-9939-5f6fd7a69491"
+  ]
+ },
+ {
+  "title": "Kunst",
+  "ids": [
+   "4f5c8673-fdb5-4b3b-9a35-20cf8e87cc4f",
+   "4ad961a3-c807-4381-99de-507e86b00bbb",
+   "0da6d402-0677-4be3-b838-2a4c055e8efe"
+  ]
+ }
+]
