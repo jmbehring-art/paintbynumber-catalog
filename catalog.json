@@ -1,5 +1,27 @@
 [
  {
+  "id": "85a1cd91-cbcc-4456-8403-0e9e6fa310db",
+  "title": "Am Kartentisch des Kapitäns",
+  "kind": "contour",
+  "width": 3792,
+  "height": 2544,
+  "regions": 958,
+  "version": "24a9c9b5d38d",
+  "added": "2026-11-25T14:07:28",
+  "puzzle": "bilder/85a1cd91-cbcc-4456-8403-0e9e6fa310db/puzzle.json",
+  "preview": "bilder/85a1cd91-cbcc-4456-8403-0e9e6fa310db/preview.png",
+  "size": 2864081,
+  "image": "bilder/85a1cd91-cbcc-4456-8403-0e9e6fa310db/image.jpg",
+  "outlined": true,
+  "source": {
+   "credit": "Mit KI erzeugt (Gemini)",
+   "about": "In der Kajüte eines Segelschiffs liegen die Werkzeuge der Seefahrer bereit: ein Sextant zum Messen der Sonnenhöhe, Stechzirkel, Lineal und Kompass, dazu Seekarten, Tintenfass und das Logbuch. Durch das Bullauge sieht man das Meer. Die Szene spielt gegen Ende des 19. Jahrhunderts und ist erfunden."
+  },
+  "tags": [
+   "Geschichte"
+  ]
+ },
+ {
   "id": "9f990f3c-eca6-4f3b-aecd-ec3d56568763",
   "title": "Riomaggiore in den Cinque Terre",
   "kind": "contour",
