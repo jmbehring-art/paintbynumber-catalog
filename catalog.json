@@ -1,5 +1,33 @@
 [
  {
+  "id": "aa97a1d6-c3c7-43e5-aaba-7db7ae3a017a",
+  "title": "Villa Vizcaya an der Biscayne Bay",
+  "kind": "contour",
+  "width": 3010,
+  "height": 2090,
+  "regions": 2064,
+  "version": "de7aa86026c5",
+  "added": "2026-11-27T12:35:19",
+  "puzzle": "bilder/aa97a1d6-c3c7-43e5-aaba-7db7ae3a017a/puzzle.json",
+  "preview": "bilder/aa97a1d6-c3c7-43e5-aaba-7db7ae3a017a/preview.png",
+  "size": 3287226,
+  "image": "bilder/aa97a1d6-c3c7-43e5-aaba-7db7ae3a017a/image.jpg",
+  "outlined": true,
+  "source": {
+   "credit": "Tom Schaefer (mit KI zur Malvorlage umgezeichnet)",
+   "license": "CC BY-SA 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+   "url": "https://commons.wikimedia.org/wiki/File:Villa_Vizcaya.jpg",
+   "site": "Wikimedia Commons",
+   "about": "Die Villa Vizcaya liegt in Miami direkt an der Biscayne Bay. Der Industrielle James Deering ließ sie Anfang des 20. Jahrhunderts im Stil einer italienischen Renaissancevilla als Winterresidenz errichten. Heute ist sie ein Museum mit prächtigen Räumen und einem großen Barockgarten. Vorlage: Foto von Tom Schaefer, mit KI zur Malvorlage umgezeichnet."
+  },
+  "tags": [
+   "Nordamerika",
+   "Städte & Dörfer",
+   "US"
+  ]
+ },
+ {
   "id": "1f5bb0bc-fee7-4fc5-9542-99ac3e11f993",
   "title": "Leuchtturm Akraberg über den Wellen",
   "kind": "contour",
