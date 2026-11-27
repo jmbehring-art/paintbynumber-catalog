@@ -1,5 +1,27 @@
 [
  {
+  "id": "a4fd1167-6ea8-42e2-8055-7bda4a1be95e",
+  "title": "Fröhliches Eiscafé an der Strandpromenade",
+  "kind": "contour",
+  "width": 3072,
+  "height": 2048,
+  "regions": 1470,
+  "version": "751778aa3754",
+  "added": "2026-11-27T12:42:18",
+  "puzzle": "bilder/a4fd1167-6ea8-42e2-8055-7bda4a1be95e/puzzle.json",
+  "preview": "bilder/a4fd1167-6ea8-42e2-8055-7bda4a1be95e/preview.png",
+  "size": 2819393,
+  "image": "bilder/a4fd1167-6ea8-42e2-8055-7bda4a1be95e/image.jpg",
+  "outlined": true,
+  "source": {
+   "credit": "Mit KI erzeugt (ChatGPT)",
+   "about": "Ein sonniger Sommernachmittag an der Strandpromenade: Vor der rosa Eisdiele mit rot-weiß gestreifter Markise stehen kleine Tische unter gelben und türkisfarbenen Sonnenschirmen, in den Blumenkästen leuchten Geranien. Ein Hund wartet neben seinem Wassernapf, ein Fahrrad mit Blumenkorb lehnt an der Laterne, und hinten auf dem Meer zieht ein Segelboot am Leuchtturm vorbei."
+  },
+  "tags": [
+   "Alltag"
+  ]
+ },
+ {
   "id": "aa97a1d6-c3c7-43e5-aaba-7db7ae3a017a",
   "title": "Villa Vizcaya an der Biscayne Bay",
   "kind": "contour",
