@@ -1,5 +1,86 @@
 [
  {
+  "id": "92a36181-0418-4aa2-bb89-33b84ae0dbee",
+  "title": "Leuchtturm an der Südspitze der Färöer",
+  "kind": "contour",
+  "width": 3600,
+  "height": 2688,
+  "regions": 336,
+  "version": "fa583c374e49",
+  "added": "2026-11-27T11:18:03",
+  "puzzle": "bilder/92a36181-0418-4aa2-bb89-33b84ae0dbee/puzzle.json",
+  "preview": "bilder/92a36181-0418-4aa2-bb89-33b84ae0dbee/preview.png",
+  "size": 553372,
+  "outlined": true,
+  "source": {
+   "credit": "Eileen Sandá (mit KI zur Malvorlage umgezeichnet)",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "url": "https://commons.wikimedia.org/wiki/File:Akraberg_Lighthouse,_Suduroy,_Faroe_Islands.JPG",
+   "site": "Wikimedia Commons",
+   "about": "Der Leuchtturm von Akraberg steht an der Südspitze von Suðuroy, der südlichsten Insel der Färöer. Steile, grasbewachsene Klippen fallen hier zum Nordatlantik ab, und neben dem Turm duckt sich eine kleine rote Hütte hinter dem Weidezaun. Vorlage: Foto von Eileen Sandá, mit KI zur Malvorlage umgezeichnet."
+  },
+  "tags": [
+   "Europa",
+   "Natur",
+   "FO"
+  ]
+ },
+ {
+  "id": "1f5bb0bc-fee7-4fc5-9542-99ac3e11f993",
+  "title": "Leuchtturm Akraberg über den Wellen",
+  "kind": "contour",
+  "width": 2896,
+  "height": 2172,
+  "regions": 359,
+  "version": "df340a8ca26f",
+  "added": "2026-11-27T11:18:01",
+  "puzzle": "bilder/1f5bb0bc-fee7-4fc5-9542-99ac3e11f993/puzzle.json",
+  "preview": "bilder/1f5bb0bc-fee7-4fc5-9542-99ac3e11f993/preview.png",
+  "size": 707361,
+  "outlined": true,
+  "source": {
+   "credit": "Eileen Sandá (mit KI zur Malvorlage umgezeichnet)",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "url": "https://commons.wikimedia.org/wiki/File:Akraberg_Lighthouse,_Suduroy,_Faroe_Islands.JPG",
+   "site": "Wikimedia Commons",
+   "about": "Der Leuchtturm von Akraberg steht an der Südspitze von Suðuroy, der südlichsten Insel der Färöer. Steile, grasbewachsene Klippen fallen hier zum Nordatlantik ab, und neben dem Turm duckt sich eine kleine rote Hütte hinter dem Weidezaun. Vorlage: Foto von Eileen Sandá, mit KI zur Malvorlage umgezeichnet."
+  },
+  "tags": [
+   "Europa",
+   "Natur",
+   "FO"
+  ]
+ },
+ {
+  "id": "7e3f187a-445e-4331-be8f-87b2502259de",
+  "title": "Leuchtturm Akraberg auf den Färöern",
+  "kind": "contour",
+  "width": 2896,
+  "height": 2172,
+  "regions": 687,
+  "version": "5cba5c5c2050",
+  "added": "2026-11-27T11:18:00",
+  "puzzle": "bilder/7e3f187a-445e-4331-be8f-87b2502259de/puzzle.json",
+  "preview": "bilder/7e3f187a-445e-4331-be8f-87b2502259de/preview.png",
+  "size": 804310,
+  "outlined": true,
+  "source": {
+   "credit": "Eileen Sandá (mit KI zur Malvorlage umgezeichnet)",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "url": "https://commons.wikimedia.org/wiki/File:Akraberg_Lighthouse,_Suduroy,_Faroe_Islands.JPG",
+   "site": "Wikimedia Commons",
+   "about": "Der Leuchtturm von Akraberg steht an der Südspitze von Suðuroy, der südlichsten Insel der Färöer. Steile, grasbewachsene Klippen fallen hier zum Nordatlantik ab, und neben dem Turm duckt sich eine kleine rote Hütte hinter dem Weidezaun. Vorlage: Foto von Eileen Sandá, mit KI zur Malvorlage umgezeichnet."
+  },
+  "tags": [
+   "Europa",
+   "Natur",
+   "FO"
+  ]
+ },
+ {
   "id": "85a1cd91-cbcc-4456-8403-0e9e6fa310db",
   "title": "Am Kartentisch des Kapitäns",
   "kind": "contour",
